@@ -26,8 +26,7 @@
 * 🍔 **Campus Food Booking System**
   A Java Swing + MySQL based application designed to simplify food ordering for students during exam time.
 
-* 🤖 **AI Resume Analyzer & Job Matching System**
-  Built using Python, NLP, and Machine Learning to analyze resumes, match with job descriptions, and suggest improvements.
+
 
 * 💼 **Personal Portfolio Website**
   A responsive website to showcase my projects, skills, and achievements.
